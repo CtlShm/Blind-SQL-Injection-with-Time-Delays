@@ -21,4 +21,4 @@ Data Extraction (Automated)
 * Analysis: Look for responses $\ge$ 3000ms. Assemble the characters based on their position. Login with the credentials and password found inside the Intruder . 
 
 
-'#CyberSecurity' '#PenetrationTesting' '#SQLi' '#BurpSuite' '#EthicalHacking '#PortSwigger' '#Kali'
+`#CyberSecurity` `#PenetrationTesting` `#SQLi` `#BurpSuite` `#EthicalHacking`
