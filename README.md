@@ -19,3 +19,6 @@ Data Extraction (Automated)
 *  **Payload 2**: Simple List (a-z, 0-9).
 *  **Resource Pool**: Set Maximum concurrent requests = 1 (Crucial for time-based accuracy)
 * Analysis: Look for responses $\ge$ 3000ms. Assemble the characters based on their position. Login with the credentials and password found inside the Intruder . 
+
+
+#'CyberSecurity' #'PenetrationTesting' #'SQLi' #'BurpSuite' #'EthicalHacking #'PortSwigger' #'Kali'
